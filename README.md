@@ -19,6 +19,6 @@ _You must open a command console and in the root project run the following comma
 py manage.py runserver
 ```
 
-### Author
+## Author ✒️
 
 * **Daniel Nieto** - [daniel1775](https://github.com/daniel1775)
